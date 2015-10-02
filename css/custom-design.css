@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* index page fixed or custom design */
+.slider-bg-custom{background-color: rgba(0, 0, 0, 0.52);padding-top: 50px;padding-bottom:75px;border-radius: 35px;}
+.navbar-brand-custom{padding-top: 0px;padding-bottom: 0px;margin-top: 2px;}
+.navbar-fixed-top-custom{padding-top: 4px;padding-bottom: 4px;}
+
+
+/* Include Popup */
